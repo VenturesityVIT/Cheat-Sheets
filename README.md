@@ -1,6 +1,6 @@
-## Venturesity VIT ##
+# Venturesity VIT #
 
-# These cheat sheets were contributed by our Tech-team and designed by our lead designer Varun #
+## These cheat sheets were contributed by our Tech-team and designed by our lead designer Varun ##
 
 To download them locally, click the "Clone or Download" button on right side of this repository and then download as Zip
 
